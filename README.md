@@ -1,0 +1,2 @@
+# XGB-SHAP-concrete-interface-shear-strength
+Accurate prediction of the shear strength of the interface between old and new concrete (cold joints) is essential for the design or assessment of precast and retrofitted concrete structures.  The XGBoost and Shapley Additive exPlanations technique were used to develop an explainable ML-model for interface shear strength prediction of the cold joints. This package contains the code of the model and the collected database.
